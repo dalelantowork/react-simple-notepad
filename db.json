@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1617085585551",
+      "text": "first note",
+      "day": "now",
+      "reminder": false
+    },
+    {
+      "id": "1617085588463",
+      "text": "2nd note",
+      "day": "today",
+      "reminder": false
+    },
+    {
+      "id": "1617883571032",
+      "text": "3rd note",
+      "day": "Its okay",
+      "reminder": false
+    }
+  ]
+}
